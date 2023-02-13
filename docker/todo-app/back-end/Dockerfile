@@ -3,4 +3,4 @@ WORKDIR /
 ADD node_modules.tar.gz ./
 COPY . .
 EXPOSE 3001
-ENTRYPOINT [ "npm start" ]
+ENTRYPOINT [ "npm", "start" ]

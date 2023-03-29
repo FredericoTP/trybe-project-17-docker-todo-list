@@ -57,7 +57,7 @@ Nesse projeto foram criadas imagens para as aplicações e configurado o docker-
 
 ## 100% :heavy_check_mark:
 
-![Project-TrybeWallet-Grade]()
+![Project-Docker-ToDo-List-Grade](https://raw.githubusercontent.com/FredericoTP/trybe-project-17-docker-todo-list/main/images/docker-grade.png)
 
 </details>
 <br />

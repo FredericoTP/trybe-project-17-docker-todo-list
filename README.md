@@ -9,7 +9,7 @@ Nesse projeto foram criadas imagens para as aplicações e configurado o docker-
 
 ### Stacks utilizadas no desenvolvimento:
 <div style="display: inline_block"><br>
-  <img alt="Fred-DOCKER" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Fred-DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <br />
